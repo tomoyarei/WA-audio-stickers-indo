@@ -1,92 +1,94 @@
 <p align="center"><img src="extension/icons/icono-128.png" width="96" alt=""></p>
 
-<h1 align="center">Stickers con sonido</h1>
+<h1 align="center">Stiker dengan Suara</h1>
 
-<p align="center">Convierte un video, una imagen o un GIF en un <b>sticker con sonido</b> y envíalo desde <b>WhatsApp Web</b>.<br>Todo se procesa en tu navegador: nada se sube a otro servidor que no sea WhatsApp.</p>
+<p align="center">Ubah video, gambar, atau GIF menjadi <b>stiker bersuara</b> dan kirim lewat <b>WhatsApp Web</b>.<br>Semuanya diproses di browser Anda: tidak ada yang diunggah ke server mana pun selain WhatsApp.</p>
 
-<p align="center"><a href="https://github.com/Shirtep/WA-audio-stickers/releases/latest/download/stickers-con-sonido.zip"><img src="docs/img/boton-descargar.png" width="352" alt="Descargar gratis (ZIP para Chrome, Edge o Brave)"></a></p>
+<p align="center"><a href="https://github.com/tomoyarei/WA-audio-stickers-indo/releases/download/v0.7.2/stickers-con-sonido-0.7.2-id.zip"><img src="docs/img/boton-descargar.png" width="352" alt="Unduh gratis (ZIP untuk Chrome, Edge, atau Brave)"></a></p>
 
-<p align="center"><a href="#instalación"><img src="docs/img/boton-guia.png" width="282" alt="Guía de instalación"></a> <a href="https://ko-fi.com/shirtep"><img src="docs/img/boton-apoyar.png" width="282" alt="Apoyar en Ko-fi"></a></p>
+<p align="center"><a href="#instalasi"><img src="docs/img/boton-guia.png" width="282" alt="Panduan instalasi"></a> <a href="https://ko-fi.com/shirtep"><img src="docs/img/boton-apoyar.png" width="282" alt="Dukung di Ko-fi"></a></p>
 
-<p align="center"><sub>Gratis y sin fines de lucro. Las donaciones son voluntarias.</sub></p>
+<p align="center"><sub>Gratis dan nirlaba. Donasi bersifat sukarela.</sub></p>
 
-> **Aviso:** proyecto personal, **no oficial**, sin relación con WhatsApp ni con Meta. Usa funciones internas de WhatsApp Web que pueden cambiar en cualquier momento, y activa en tu navegador la función de stickers con sonido, que WhatsApp está probando. Úsalo bajo tu propia responsabilidad.
+> Ini terjemahan bahasa Indonesia tidak resmi dari [Shirtep/WA-audio-stickers](https://github.com/Shirtep/WA-audio-stickers).
 
-## Instalación
+> **Peringatan:** proyek pribadi, **tidak resmi**, tidak berhubungan dengan WhatsApp maupun Meta. Ekstensi ini memakai fungsi internal WhatsApp Web yang bisa berubah kapan saja, dan mengaktifkan di browser Anda fitur stiker bersuara yang sedang diuji coba WhatsApp. Gunakan dengan risiko Anda sendiri.
 
-No hay que ejecutar ningún programa: se carga la carpeta de la extensión en el navegador (Chrome, Edge o Brave de escritorio).
+## Instalasi
 
-1. Descarga el [**ZIP de la última versión**](https://github.com/Shirtep/WA-audio-stickers/releases/latest/download/stickers-con-sonido.zip) (también está en la página de [versiones](https://github.com/Shirtep/WA-audio-stickers/releases/latest)).
-2. Descomprímelo en un lugar donde se vaya a quedar, por ejemplo `Documentos`. Obtendrás una carpeta `stickers-con-sonido`.
-   **No la borres ni la muevas después:** el navegador carga la extensión desde ahí.
-3. Abre la página de extensiones: escribe `chrome://extensions` en la barra de direcciones (en Edge, `edge://extensions`).
-4. Activa **Modo de desarrollador** (arriba a la derecha):
+Tidak perlu menjalankan program apa pun: cukup muat folder ekstensi ke browser (Chrome, Edge, atau Brave versi desktop).
 
-   <img src="docs/img/paso1-modo-desarrollador.png" alt="Interruptor Modo de desarrollador activado" width="230">
+1. Unduh [**ZIP versi terbaru**](https://github.com/tomoyarei/WA-audio-stickers-indo/releases/download/v0.7.2/stickers-con-sonido-0.7.2-id.zip) (juga tersedia di halaman [rilis](https://github.com/tomoyarei/WA-audio-stickers-indo/releases/latest)).
+2. Ekstrak ke tempat yang akan tetap di sana, misalnya `Documents`. Anda akan mendapatkan folder `stickers-con-sonido-id`.
+   **Jangan menghapus atau memindahkannya setelah itu:** browser memuat ekstensi langsung dari folder tersebut.
+3. Buka halaman ekstensi: ketik `chrome://extensions` di address bar (di Edge, `edge://extensions`).
+4. Aktifkan **Mode developer** (kanan atas):
 
-5. Pulsa **Cargar extensión sin empaquetar** (en algunas versiones se llama *Cargar descomprimida*):
+   <img src="docs/img/paso1-modo-desarrollador.png" alt="Sakelar Mode developer aktif" width="230">
 
-   <img src="docs/img/paso2-cargar-sin-empaquetar.png" alt="Botón Cargar extensión sin empaquetar" width="420">
+5. Klik **Muat yang belum dipaketkan** (*Load unpacked*; di beberapa versi namanya berbeda):
 
-6. Elige la carpeta `stickers-con-sonido` del paso 2 y pulsa **Seleccionar carpeta**. Aparecerá la extensión:
+   <img src="docs/img/paso2-cargar-sin-empaquetar.png" alt="Tombol Muat yang belum dipaketkan" width="420">
 
-   <img src="docs/img/paso3-extension-instalada.png" alt="Tarjeta de la extensión Stickers con sonido" width="380">
+6. Pilih folder `stickers-con-sonido-id` dari langkah 2, lalu klik **Pilih Folder**. Ekstensi akan muncul:
 
-7. Pulsa el icono del rompecabezas de la barra del navegador y fija **Stickers con sonido** con la chincheta, para tener a mano su icono violeta.
+   <img src="docs/img/paso3-extension-instalada.png" alt="Kartu ekstensi Stiker dengan Suara" width="380">
 
-Las capturas son de Brave. En Chrome y Edge se ve igual, con otros colores.
+7. Klik ikon puzzle di toolbar browser lalu **sematkan** (pin) **Stiker dengan Suara**, agar ikon ungunya mudah dijangkau.
 
-**Actualizar:** descarga el ZIP de la nueva versión y reemplaza el contenido de la carpeta `stickers-con-sonido` con el nuevo. Después pulsa el botón de recargar (↻) de la extensión en la página de extensiones. Tus ajustes se conservan.
+Tangkapan layar diambil dari Brave. Di Chrome dan Edge tampilannya sama, hanya warnanya berbeda.
 
-**Desinstalar:** pulsa **Quitar** en la página de extensiones y borra la carpeta.
+**Memperbarui:** unduh ZIP versi baru dan ganti isi folder `stickers-con-sonido-id` dengan yang baru. Lalu klik tombol muat ulang (↻) pada ekstensi di halaman ekstensi. Pengaturan Anda tetap tersimpan.
 
-## Uso
+**Menghapus:** klik **Hapus** (*Remove*) di halaman ekstensi, lalu hapus foldernya.
 
-1. Abre [web.whatsapp.com](https://web.whatsapp.com) y entra al chat donde quieres enviar el sticker.
-2. Pulsa el icono violeta de la extensión. El panel tiene tres pestañas, cada una con su formulario:
-   - **Video:** un video con su propio sonido (los pasos de abajo).
-   - **Imagen + audio:** una imagen fija con el sonido que elijas (MP3, M4A, OGG, WAV o el sonido de un video). Recortas el audio con asas sobre su forma de onda y el sticker dura lo que dure ese tramo.
-   - **Video o GIF + audio:** una animación (un video sin su sonido, o un GIF) con otro audio. Si duran distinto, por defecto cada uno dura lo suyo: al tocar el sticker empiezan juntos y terminan por separado. También puedes repetir la animación o dejar quieto su último cuadro hasta que acabe el audio. Cambiar el tramo de audio no obliga a recalcular las opciones.
+## Cara pakai
 
-   En la pestaña **Video** hay cuatro pasos:
-   1. **Video:** elige un video con sonido.
-   2. **Tramo:** arrastra las asas verdes para marcar el inicio y el fin. El video muestra el cuadro exacto, y **−/+** mueven un cuadro.
-   3. **Formato:** pulsa **Calcular opciones**. Aparece una tabla de resolución × fps con el peso estimado de cada combinación:
-      - verde: cabe;
-      - amarillo: cabe bajando la calidad;
-      - ✕: no cabe;
-      - ★: la recomendada.
-   4. **Crear y enviar:** opcionalmente escribe el **paquete** y el **autor** (WhatsApp los muestra bajo el sticker), crea el sticker, revisa la vista previa y envíalo.
-3. Desde el celular puedes marcarlo como favorito para volver a usarlo.
+1. Buka [web.whatsapp.com](https://web.whatsapp.com) dan masuk ke chat tempat Anda ingin mengirim stiker.
+2. Klik ikon ungu ekstensi. Panelnya punya tiga tab, masing-masing dengan formulirnya sendiri:
+   - **Video:** video dengan suaranya sendiri (langkah-langkahnya di bawah).
+   - **Gambar + audio:** gambar diam dengan suara pilihan Anda (MP3, M4A, OGG, WAV, atau suara dari sebuah video). Audio dipotong dengan gagang di atas bentuk gelombangnya, dan durasi stiker sama dengan durasi potongan itu.
+   - **Video atau GIF + audio:** animasi (video tanpa suaranya, atau GIF) dengan audio lain. Jika durasinya berbeda, secara default masing-masing berjalan sesuai durasinya sendiri: saat stiker disentuh, keduanya dimulai bersamaan dan berakhir sendiri-sendiri. Anda juga bisa mengulang animasi, atau mendiamkan frame terakhirnya sampai audio selesai. Mengubah potongan audio tidak mengharuskan opsi dihitung ulang.
 
-## Límites
+   Pada tab **Video** ada empat langkah:
+   1. **Video:** pilih video yang bersuara.
+   2. **Potongan:** seret gagang hijau untuk menandai awal dan akhir. Video menampilkan frame yang tepat, dan tombol **−/+** menggeser satu frame.
+   3. **Format:** klik **Hitung opsi**. Muncul tabel resolusi × fps beserta perkiraan ukuran tiap kombinasi:
+      - hijau: muat;
+      - kuning: muat dengan menurunkan kualitas;
+      - ✕: tidak muat;
+      - ★: yang direkomendasikan.
+   4. **Buat dan kirim:** secara opsional tulis **paket** dan **pembuat** (WhatsApp menampilkannya di bawah stiker), buat stiker, periksa pratinjau, lalu kirim.
+3. Dari ponsel, Anda bisa menandainya sebagai favorit agar bisa dipakai lagi.
 
-| | Límite | Motivo |
+## Batasan
+
+| | Batas | Alasan |
 |---|---|---|
-| Peso del sticker | **1 MB** | El servidor de WhatsApp rechaza archivos más grandes (error 413). |
-| Peso del audio | 1 MB (≈ 10 min) | Límite de WhatsApp Web para el audio del sticker. |
-| Resolución | 64 a 512 px | WhatsApp usa 512 px. Más grande no se ve mejor y pesa más. |
-| Fluidez | hasta 30 fps | WhatsApp solo exige que cada cuadro dure al menos 8 ms. |
+| Ukuran stiker | **1 MB** | Server WhatsApp menolak file yang lebih besar (error 413). |
+| Ukuran audio | 1 MB (≈ 10 menit) | Batas WhatsApp Web untuk audio stiker. |
+| Resolusi | 64 sampai 512 px | WhatsApp memakai 512 px. Lebih besar tidak tampak lebih baik dan ukurannya lebih berat. |
+| Kelancaran | hingga 30 fps | WhatsApp hanya mensyaratkan setiap frame berdurasi minimal 8 ms. |
 
-Cuanto más largo es el tramo, menos resolución o fps caben en 1 MB: la tabla del paso 3 muestra qué cabe antes de crear nada.
+Makin panjang potongannya, makin rendah resolusi atau fps yang muat dalam 1 MB: tabel pada langkah 3 menunjukkan apa yang muat sebelum Anda membuat apa pun.
 
-Quien recibe el sticker necesita una versión de WhatsApp que ya reproduzca stickers con sonido. Si no la tiene, verá un sticker normal, sin sonido.
+Penerima stiker membutuhkan versi WhatsApp yang sudah bisa memutar stiker bersuara. Jika belum, yang terlihat hanyalah stiker biasa tanpa suara.
 
-## Privacidad
+## Privasi
 
-- La conversión del video ocurre en tu navegador.
-- La extensión guarda un **registro de diagnóstico** solo en tu navegador, con los números de teléfono ocultos y sin claves. Puedes verlo, descargarlo o borrarlo desde *Herramientas de prueba* en el panel, o con clic derecho en el icono → *Opciones*.
+- Konversi video terjadi di browser Anda.
+- Ekstensi menyimpan **log diagnostik** hanya di browser Anda, dengan nomor telepon disamarkan dan tanpa kunci. Anda bisa melihat, mengunduh, atau menghapusnya lewat *Alat uji* di panel, atau dengan klik kanan pada ikon → *Opsi*.
 
-## Requisitos
+## Persyaratan
 
-- Chrome, Edge o Brave de escritorio, actualizado (usa WebCodecs para codificar el audio).
-- Una cuenta de WhatsApp abierta en WhatsApp Web.
+- Chrome, Edge, atau Brave versi desktop yang sudah diperbarui (memakai WebCodecs untuk mengenkode audio).
+- Akun WhatsApp yang terbuka di WhatsApp Web.
 
-## Para desarrolladores
+## Untuk pengembang
 
-- [`docs/como-funciona.md`](docs/como-funciona.md): cómo se arma un sticker con sonido (protobuf, formato del audio, límites) y cómo trabaja la extensión.
-- [`dev/`](dev/): páginas para probar la conversión sin WhatsApp y el video de calibración de sincronía.
+- [`docs/como-funciona.md`](docs/como-funciona.md): cara stiker bersuara dirakit (protobuf, format audio, batasan) dan cara kerja ekstensi.
+- [`dev/`](dev/): halaman untuk menguji konversi tanpa WhatsApp dan video kalibrasi sinkronisasi.
 
-## Licencia
+## Lisensi
 
-Uso libre y gratuito, **sin fines comerciales**: puedes usarla, estudiarla, modificarla y compartirla, pero no venderla ni usarla para lucrar. Texto completo en [`LICENSE.md`](LICENSE.md) ([PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0)). Se ofrece tal cual, sin garantías.
+Bebas dan gratis dipakai, **tanpa tujuan komersial**: Anda boleh menggunakan, mempelajari, mengubah, dan membagikannya, tetapi tidak boleh menjualnya atau memakainya untuk mencari untung. Teks lengkap ada di [`LICENSE.md`](LICENSE.md) ([PolyForm Noncommercial 1.0.0](https://polyformproject.org/licenses/noncommercial/1.0.0)). Disediakan apa adanya, tanpa jaminan.
