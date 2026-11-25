@@ -24,15 +24,16 @@ Tidak perlu menjalankan program apa pun: cukup muat folder ekstensi ke browser (
 3. Buka halaman ekstensi: ketik `chrome://extensions` di address bar (di Edge, `edge://extensions`).
 4. Aktifkan **Mode developer** (kanan atas):
 
-   <img src="docs/img/paso1-modo-desarrollador.png" alt="Sakelar Mode developer aktif" width="230">
+   <img width="188" height="37" alt="stiker1" src="https://github.com/user-attachments/assets/6dd5e1de-5ec2-4c30-b074-bc63a98b16eb" />
+
 
 5. Klik **Muat yang belum dipaketkan** (*Load unpacked*; di beberapa versi namanya berbeda):
 
-   <img src="docs/img/paso2-cargar-sin-empaquetar.png" alt="Tombol Muat yang belum dipaketkan" width="420">
+<img width="465" height="58" alt="stiker2" src="https://github.com/user-attachments/assets/d6a11f44-1134-45aa-b63e-c5b705622e06" />
 
 6. Pilih folder `stickers-con-sonido-id` dari langkah 2, lalu klik **Pilih Folder**. Ekstensi akan muncul:
 
-   <img src="docs/img/paso3-extension-instalada.png" alt="Kartu ekstensi Stiker dengan Suara" width="380">
+<img width="488" height="247" alt="stiker3" src="https://github.com/user-attachments/assets/c280537a-17e9-4c62-a0ba-6080db5eb544" />
 
 7. Klik ikon puzzle di toolbar browser lalu **sematkan** (pin) **Stiker dengan Suara**, agar ikon ungunya mudah dijangkau.
 
