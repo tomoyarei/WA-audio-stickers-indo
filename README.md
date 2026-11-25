@@ -19,7 +19,7 @@
 Tidak perlu menjalankan program apa pun: cukup muat folder ekstensi ke browser (Chrome, Edge, atau Brave versi desktop).
 
 1. Unduh [**ZIP versi terbaru**](https://github.com/tomoyarei/WA-audio-stickers-indo/releases/download/v0.7.2/stickers-con-sonido-0.7.2-id.zip) (juga tersedia di halaman [rilis](https://github.com/tomoyarei/WA-audio-stickers-indo/releases/latest)).
-2. Ekstrak ke tempat yang akan tetap di sana, misalnya `Documents`. Anda akan mendapatkan folder `stickers-con-sonido-id`.
+2. Ekstrak ke tempat yang akan tetap di sana, misalnya `Downloads`. Anda akan mendapatkan folder `stickers-con-sonido-id`.
    **Jangan menghapus atau memindahkannya setelah itu:** browser memuat ekstensi langsung dari folder tersebut.
 3. Buka halaman ekstensi: ketik `chrome://extensions` di address bar (di Edge, `edge://extensions`).
 4. Aktifkan **Mode developer** (kanan atas):
