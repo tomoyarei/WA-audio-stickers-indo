@@ -71,7 +71,7 @@ Tangkapan layar diambil dari Brave. Di Chrome dan Edge tampilannya sama, hanya w
 | Resolusi | 64 sampai 512 px | WhatsApp memakai 512 px. Lebih besar tidak tampak lebih baik dan ukurannya lebih berat. |
 | Kelancaran | hingga 30 fps | WhatsApp hanya mensyaratkan setiap frame berdurasi minimal 8 ms. |
 
-Makin panjang potongannya, makin rendah resolusi atau fps yang muat dalam 1 MB: tabel pada langkah 3 menunjukkan apa yang muat sebelum Anda membuat apa pun.
+Semakin panjang potongannya, semakin rendah resolusi atau fps yang muat dalam 1 MB: tabel pada langkah 3 menunjukkan apa yang muat sebelum Anda membuat apa pun.
 
 Penerima stiker membutuhkan versi WhatsApp yang sudah bisa memutar stiker bersuara. Jika belum, yang terlihat hanyalah stiker biasa tanpa suara.
 
