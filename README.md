@@ -39,7 +39,7 @@ Tidak perlu menjalankan program apa pun: cukup muat folder ekstensi ke browser (
 
 Tangkapan layar diambil dari Brave. Di Chrome dan Edge tampilannya sama, hanya warnanya berbeda.
 
-**Memperbarui:** unduh ZIP versi baru dan ganti isi folder `stickers-con-sonido-id` dengan yang baru. Lalu klik tombol muat ulang (↻) pada ekstensi di halaman ekstensi. Pengaturan Anda tetap tersimpan.
+**Memperbarui:** unduh ZIP versi baru dan ganti isi folder `stickers-con-sonido-id` dengan yang baru. Lalu klik tombol muat ulang (⟳) pada ekstensi di halaman ekstensi. Pengaturan Anda tetap tersimpan.
 
 **Menghapus:** klik **Hapus** (*Remove*) di halaman ekstensi, lalu hapus foldernya.
 
